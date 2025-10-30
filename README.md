@@ -62,10 +62,13 @@ PEZ/<br>
 │   ├── ESQUEMATICO_PEZ.png<br>
 │   ├── PEZ_DIAGRAMA_BLOQUES.png<br>
 │   ├── PEZ_DIAGRAMA_PICTORICO.png<br>
+│   ├── PEZ_DIAGRAMA_ARQUITECTURA.png<br>
+│   ├── PEZ_DIAGRAMA_SECUENCIA.png<br>
 │   └── PEZ_DIAGRAMA_FLUJO.png<br>
 │<br>
 ├── DOCUMENTACION/<br>
-│   └── MANUAL.docx<br>
+│   ├── DOCUMENTACION.pdf<br>
+│   └── DOCUMENTACION.docx<br>
 │<br>
 └── README.md<br>
 
